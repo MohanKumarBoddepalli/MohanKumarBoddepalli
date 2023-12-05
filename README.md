@@ -17,16 +17,16 @@ I'm constantly seeking opportunities to grow and improve as a developer. I'm par
 
 I'm always open to collaborating on interesting and challenging projects. I'm particularly interested in projects that involve:
 
-* [Javascript]
-* [React]
-* [Node]
-* [postgresql]
-* [Redis]
+* Javascript
+* React
+* Node
+* postgresql
+* Redis
 
 ## 📫 How to reach me on LinkedIn
 
-You can reach me on [LinkedIN] at [mohan-kumar-boddepalli].
+You can reach me on LinkedIN at https://www.linkedin.com/in/mohan-kumar-boddepalli
 
 ## Additional Information
 
-* [LinkedIn Profile]: [https://www.linkedin.com/in/mohan-kumar-boddepalli]
+* LinkedIn Profile: https://www.linkedin.com/in/mohan-kumar-boddepalli
