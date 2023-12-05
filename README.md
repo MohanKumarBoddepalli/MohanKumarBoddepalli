@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I'm @MohanKumarBoddepalli
 
-I'm a passionate developer with a deep interest in software engineering and machine learning. I'm always eager to learn new things and expand my skillset.
+I'm a passionate developer with a deep interest in software engineering that involves webDevelopment and machine learning. I'm always eager to learn new things and expand my skillset.
 
 ## 👀 I'm interested in developing and evolving my self
 
