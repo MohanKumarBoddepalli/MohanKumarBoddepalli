@@ -33,4 +33,4 @@ You can reach me on LinkedIN at https://www.linkedin.com/in/mohan-kumar-boddepal
 
 ## Additional Information
 
-* LinkedIn Profile: https://www.linkedin.com/in/mohan-kumar-boddepalli
+* Portfolio: [LINK](http://MohanKumarBoddepalli.github.io/Portfolio)
