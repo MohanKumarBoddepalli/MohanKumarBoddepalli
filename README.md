@@ -1,12 +1,9 @@
+<h1 align=center>Mohan Kumar Boddepalli</h1>
 # Git README
 
 ## 👋 Hi, I'm @MohanKumarBoddepalli
 
 I'm a passionate developer with a deep interest in software engineering that involves webDevelopment and machine learning. I'm always eager to learn new things and expand my skillset.
-
-## 👀 I'm interested in developing and evolving my self
-
-I'm constantly seeking opportunities to grow and improve as a developer. I'm particularly interested in learning about new programming languages, frameworks, and tools. I'm also passionate about exploring the latest advancements in machine learning and artificial intelligence.
 
 ## 🌱 Already good with:
 
@@ -33,4 +30,4 @@ You can reach me on LinkedIN at https://www.linkedin.com/in/mohan-kumar-boddepal
 
 ## Additional Information
 
-* Portfolio: [LINK](http://MohanKumarBoddepalli.github.io/Portfolio)
+* Portfolio: [Link](http://MohanKumarBoddepalli.github.io/Portfolio)
